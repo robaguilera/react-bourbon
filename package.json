@@ -5,8 +5,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/robaguilera/react-bourbon.git"
+    "url": "git+https://github.com/robaguilera/react-bourbon.git"
   },
+  "keywords": [
+    "react",
+    "component library"
+  ],
+  "private": false,
   "version": "1.0.0",
   "description": "A neat collection of simple React components",
   "main": "dist/cjs/index.js",
